@@ -1,1 +1,1 @@
-title: cchamp
+theme: jekyll-theme-minimal
